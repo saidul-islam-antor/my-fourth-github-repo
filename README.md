@@ -29,4 +29,5 @@ git clone https://github.com/saidul-islam-antor/my-fourth-github-repo.git
 
 
 #2.Navigate to the project directory
+```bash
 cd my-fourth-github-repo
