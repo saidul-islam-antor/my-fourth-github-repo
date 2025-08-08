@@ -26,5 +26,7 @@ This is a static front-end project—no external dependencies or build steps req
 ```bash
 git clone https://github.com/saidul-islam-antor/my-fourth-github-repo.git
 
-2.Navigate to the project directory
+
+
+#2.Navigate to the project directory
 cd my-fourth-github-repo
